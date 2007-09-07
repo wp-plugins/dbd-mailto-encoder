@@ -3,7 +3,7 @@ Contributors: dubhunter
 Donate link: http://dontblinkdesign.com/
 Tags: mailto, spam, email, encode, spider, unicode, antispam, filter
 Requires at least: 2.0
-Tested up to: 2.1
+Tested up to: 2.2
 Stable tag: 1.0
 
 Searches all content for "mailto:" links, then unicodes them to protect from spiders. No Javascript required!
