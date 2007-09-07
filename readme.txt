@@ -20,8 +20,8 @@ Well now you can! With this plugin, all mailto links will be filtered on display
 About as easy as 1,2,3 (ok, easier!)
 
 1. Upload the `dbd-mailto-encoder` directory to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Enjoy peace of mind as the plugin instantly goes to work!
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Enjoy peace of mind as the plugin instantly goes to work!
 
 == Frequently Asked Questions ==
 
