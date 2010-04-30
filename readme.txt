@@ -1,10 +1,10 @@
 === DBD Mailto Encoder ===
 Contributors: dubhunter
-Donate link: http://dontblinkdesign.com/
+Donate link: http://dontblinkdesign.com/wordpress-dbd-mailto-encoder-donate
 Tags: mailto, spam, email, encode, spider, unicode, antispam, filter
 Requires at least: 2.0
-Tested up to: 2.2
-Stable tag: 1.0
+Tested up to: 2.9.2
+Stable tag: 1.1
 
 Searches all content for "mailto:" links, then unicodes them to protect from spiders. No Javascript required!
 
@@ -36,3 +36,8 @@ About as easy as 1,2,3 (ok, easier!)
 = What is a spider? =
 
 A spider is a small program that navigates the 'web' looking for something, in this case email addresses.
+
+== Changelog ==
+
+= 1.1 =
+ * Updated Author Info
