@@ -3,7 +3,7 @@
 Plugin Name: DBD Mailto Encoder
 Plugin URI: http://www.dontblinkdesign.com/wordpress-dbd-mailto-encoder
 Description: Searches all content for "mailto:" links, then unicodes them to protect from spiders.
-Version: 1.0
+Version: 1.1
 Author: Don't Blink Design
 Author URI: http://www.dontblinkdesign.com/wordpress-dbd-mailto-encoder-author
 */
